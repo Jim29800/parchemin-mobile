@@ -1,4 +1,4 @@
-var url = "http://localhost:8000/api/" //url de l'api
+var url = "http://localhost:8000/" //url de l'api
 //CONTENU DE LA PAGE
 var htmlLogin = //Formulaire de connexion
     '<input type="text" placeholder="Identifiant" id="username">'+
